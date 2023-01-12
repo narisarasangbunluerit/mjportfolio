@@ -1,0 +1,26 @@
+.certificates__container {
+  max-width: 600px;
+}
+
+.certificates__img {
+  justify-content: center;
+  display: block;
+  background-color: var(--container-color);
+  border-radius: 1rem;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.certificates__card {
+  /* border-radius: 1rem;
+ border: 1px solid rgba(0, 0, 0, 0.1); */
+  margin-bottom: var(--mb-3);
+  padding: 0rem 2rem;
+}
+
+/* Swiper-pagination-bullet*/
+.swiper-pagination-bullet {
+  background-color: var(--text-color) !important;
+}
+.swiper-pagination-bullet-active {
+  background-color: var(--title-color) !important;
+}
