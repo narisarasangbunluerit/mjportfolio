@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/about.jpg";
-import CV from "../../assets/John-Cv.pdf";
+import Resume from "../../assets/NARISARA-Resume.pdf";
 import Info from "./Info";
 import Qualification from "../qualification/Qualification";
 import Typical from "react-typical";
@@ -22,7 +22,7 @@ const About = () => {
             process for solving a problem. I’m excited to be a part of the team.
           </p>
 
-          <a download="" href={CV} className="button button--flex">
+          <a download="" href={Resume} className="button button--flex">
             My Resume
             <svg
               class="button__icon"
