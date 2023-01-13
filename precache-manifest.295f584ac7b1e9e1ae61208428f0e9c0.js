@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d6a1e4f0111eb4cc1810",
+    "revision": "ff4eea06c40ab6a14df2",
     "url": "/mjportfolio/static/css/main.890a14b8.chunk.css"
   },
   {
-    "revision": "d6a1e4f0111eb4cc1810",
-    "url": "/mjportfolio/static/js/main.e2c5c229.chunk.js"
+    "revision": "ff4eea06c40ab6a14df2",
+    "url": "/mjportfolio/static/js/main.1625aa29.chunk.js"
   },
   {
     "revision": "67459c6ff6c70a9eded2",
@@ -64,8 +64,8 @@ self.__precacheManifest = [
     "url": "/mjportfolio/static/media/about.e190e207.jpg"
   },
   {
-    "revision": "8ddebba1598395f35eaadcba1dfadafe",
-    "url": "/mjportfolio/static/media/John-Cv.8ddebba1.pdf"
+    "revision": "aea6d50b5cf1028090b24bb5b8e71361",
+    "url": "/mjportfolio/static/media/NARISARA-Resume.aea6d50b.pdf"
   },
   {
     "revision": "d3ae908b297f9940dceb28931bfb0102",
@@ -100,7 +100,7 @@ self.__precacheManifest = [
     "url": "/mjportfolio/static/media/profile.d2750206.jpg"
   },
   {
-    "revision": "1bef2f3627b0b51086e988b8d0e9f06f",
+    "revision": "e67802be73ab8e72d7521a1a6e8d47fb",
     "url": "/mjportfolio/index.html"
   }
 ];
