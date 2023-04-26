@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "30bb45ca4d1b878058d7",
+    "revision": "aef8efc9da739a9cf1c5",
     "url": "/static/css/main.e16aa0e8.chunk.css"
   },
   {
-    "revision": "30bb45ca4d1b878058d7",
-    "url": "/static/js/main.319e60ff.chunk.js"
+    "revision": "aef8efc9da739a9cf1c5",
+    "url": "/static/js/main.8cb0988e.chunk.js"
   },
   {
-    "revision": "9f35fcb01799a5a2973d",
-    "url": "/static/js/runtime~main.d724ee8f.js"
+    "revision": "560cf717c696e4905e69",
+    "url": "/static/js/runtime~main.98843d64.js"
   },
   {
-    "revision": "3bf3f3b81609023bffef",
+    "revision": "b6db015b0d79b36f8574",
     "url": "/static/css/2.b323f339.chunk.css"
   },
   {
-    "revision": "3bf3f3b81609023bffef",
-    "url": "/static/js/2.b7543e66.chunk.js"
+    "revision": "b6db015b0d79b36f8574",
+    "url": "/static/js/2.5c49fecf.chunk.js"
   },
   {
-    "revision": "3faa7b265314843a148a",
-    "url": "/static/js/3.cfed6fcf.chunk.js"
+    "revision": "c05ec72843d736d77fcb",
+    "url": "/static/js/3.96428a79.chunk.js"
   },
   {
     "revision": "7dbb5e670523330178ebff420715e037",
@@ -64,8 +64,16 @@ self.__precacheManifest = [
     "url": "/static/media/about.e190e207.jpg"
   },
   {
-    "revision": "aea6d50b5cf1028090b24bb5b8e71361",
-    "url": "/static/media/NARISARA-Resume.aea6d50b.pdf"
+    "revision": "049d5819e74fd1d7870862db46252740",
+    "url": "/static/media/NARISARA-Resume.049d5819.pdf"
+  },
+  {
+    "revision": "b7bb8b7ccc8a78c90f61a053232313e9",
+    "url": "/static/media/App3.b7bb8b7c.png"
+  },
+  {
+    "revision": "31f99415230630ff16f91781689f819b",
+    "url": "/static/media/Web7.31f99415.png"
   },
   {
     "revision": "d3ae908b297f9940dceb28931bfb0102",
@@ -100,7 +108,7 @@ self.__precacheManifest = [
     "url": "/static/media/profile.d2750206.jpg"
   },
   {
-    "revision": "e2de52be6981a8bf219f3de04cf915a3",
+    "revision": "210087c6a5f17fdd9a2b27fd86be21be",
     "url": "/index.html"
   }
 ];
