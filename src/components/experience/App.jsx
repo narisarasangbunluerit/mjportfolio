@@ -25,7 +25,7 @@ const App = () => {
           <img src={AppImg1} alt="" className="experience_detail__image" />
 
           <div>
-            <h3 className="experience_detail__name">Food</h3>
+            <h3 className="experience_detail__name">Food App</h3>
           </div>
         </div>
       </a>

@@ -1,12 +1,14 @@
 import React from "react";
 import AppImg1 from "../../assets/App1.png";
 import AppImg2 from "../../assets/App2.png";
+import AppImg3 from "../../assets/App3.png";
 import WebImg1 from "../../assets/Web1.png";
 import WebImg2 from "../../assets/Web2.png";
 import WebImg3 from "../../assets/Web3.png";
 import WebImg4 from "../../assets/Web4.png";
 import WebImg5 from "../../assets/Web5.png";
 import WebImg6 from "../../assets/Web6.png";
+import WebImg7 from "../../assets/Web7.png";
 
 const All = () => {
   return (
@@ -111,6 +113,32 @@ const All = () => {
 
           <div>
             <h3 className="experience_detail__name">Portfolio 2</h3>
+          </div>
+        </div>
+      </a>
+
+      <a
+        target="_blank"
+        href="https://www.figma.com/file/IrH3q3I0mJs2tj9vRrh3NI/Design-system-Test-(1)?t=k6DGSyMEb688DgcM-1"
+      >
+        <div className="experience_detail__content">
+          <img src={WebImg7} alt="" className="experience_detail__image" />
+
+          <div>
+            <h3 className="experience_detail__name">Design System</h3>
+          </div>
+        </div>
+      </a>
+
+      <a
+        target="_blank"
+        href="https://www.figma.com/file/fJEFbUOa8xPZ6UWcDnAgs4/UX-with-a-product-(1)?t=k6DGSyMEb688DgcM-1"
+      >
+        <div className="experience_detail__content">
+          <img src={AppImg3} alt="" className="experience_detail__image" />
+
+          <div>
+            <h3 className="experience_detail__name">Cactus Shop</h3>
           </div>
         </div>
       </a>

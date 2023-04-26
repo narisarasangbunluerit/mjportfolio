@@ -70,7 +70,7 @@ const Skills = () => {
                   <i className="uil uil-check-circle skills__modal-icon"></i>
                   <p className="skills__modal-info">
                     Information Arcthitecture, Interaction Design, Visual
-                    Interface Design, UX Writing
+                    Interface Design, UX Writing, Pixcel Perfect
                   </p>
                 </li>
 

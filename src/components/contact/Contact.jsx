@@ -100,10 +100,10 @@ const Contact = () => {
               <i className="uil uil-instagram-alt contact__card-icon"></i>
 
               <h3 className="contact__card-title">Instagram</h3>
-              <span className="contact__card-data">nanamint.ris</span>
+              <span className="contact__card-data">nanxmint_ris</span>
 
               <a
-                href="https://www.instagram.com/nanamint.ris/"
+                href="https://www.instagram.com/nanxmint_ris/"
                 className="contact__button"
                 target="_blank"
               >
