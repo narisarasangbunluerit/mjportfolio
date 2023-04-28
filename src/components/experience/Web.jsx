@@ -1,14 +1,27 @@
 import React from "react";
+import WebImg0 from "../../assets/Web0.png";
 import WebImg1 from "../../assets/Web1.png";
 import WebImg2 from "../../assets/Web2.png";
 import WebImg3 from "../../assets/Web3.png";
 import WebImg4 from "../../assets/Web4.png";
 import WebImg5 from "../../assets/Web5.png";
 import WebImg6 from "../../assets/Web6.png";
-
+import WebImg7 from "../../assets/Web7.png";
 const Web = () => {
   return (
     <div className="experience_detail__container container grid">
+      <a
+        target="_blank"
+        href="https://www.figma.com/file/GOAtagoVbRNI6pPkm4CJQL/Builder?node-id=500%3A6419&t=rCYH189xTFx0jR6E-1"
+      >
+        <div className="experience_detail__content">
+          <img src={WebImg0} alt="" className="experience_detail__image" />
+
+          <div>
+            <h3 className="experience_detail__name">App Builder</h3>
+          </div>
+        </div>
+      </a>
       <a
         target="_blank"
         href="https://www.figma.com/file/BVSdsogRQHBfwqUNbvh3Z9/COMSCI?node-id=0%3A1&t=MokpNPfNT4TflQSx-1"
@@ -83,6 +96,19 @@ const Web = () => {
 
           <div>
             <h3 className="experience_detail__name">Portfolio V.2</h3>
+          </div>
+        </div>
+      </a>
+
+      <a
+        target="_blank"
+        href="https://www.figma.com/file/IrH3q3I0mJs2tj9vRrh3NI/Design-system-Test-(1)?t=k6DGSyMEb688DgcM-1"
+      >
+        <div className="experience_detail__content">
+          <img src={WebImg7} alt="" className="experience_detail__image" />
+
+          <div>
+            <h3 className="experience_detail__name">Design System</h3>
           </div>
         </div>
       </a>

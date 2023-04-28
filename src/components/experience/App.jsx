@@ -1,6 +1,7 @@
 import React from "react";
 import AppImg1 from "../../assets/App1.png";
 import AppImg2 from "../../assets/App2.png";
+import AppImg3 from "../../assets/App3.png";
 const App = () => {
   return (
     <div className="experience_detail__container container grid">
@@ -26,6 +27,19 @@ const App = () => {
 
           <div>
             <h3 className="experience_detail__name">Food App</h3>
+          </div>
+        </div>
+      </a>
+
+      <a
+        target="_blank"
+        href="https://www.figma.com/file/fJEFbUOa8xPZ6UWcDnAgs4/UX-with-a-product-(1)?t=k6DGSyMEb688DgcM-1"
+      >
+        <div className="experience_detail__content">
+          <img src={AppImg3} alt="" className="experience_detail__image" />
+
+          <div>
+            <h3 className="experience_detail__name">Cactus Shop</h3>
           </div>
         </div>
       </a>
