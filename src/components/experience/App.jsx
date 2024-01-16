@@ -2,6 +2,7 @@ import React from "react";
 import AppImg1 from "../../assets/App1.png";
 import AppImg2 from "../../assets/App2.png";
 import AppImg3 from "../../assets/App3.png";
+import WebImg10 from "../../assets/Web10.png";
 const App = () => {
   return (
     <div className="experience_detail__container container grid">
@@ -40,6 +41,19 @@ const App = () => {
 
           <div>
             <h3 className="experience_detail__name">Cactus Shop</h3>
+          </div>
+        </div>
+      </a>
+
+      <a
+        target="_blank"
+        href="https://www.figma.com/file/oOzAUWnU2ox4Cqyghl5EfY/Internship?type=design&node-id=3%3A3051&mode=design&t=39BoLoYffaGBo461-1"
+      >
+        <div className="experience_detail__content">
+          <img src={WebImg10} alt="" className="experience_detail__image" />
+
+          <div>
+            <h3 className="experience_detail__name">Internship Projects</h3>
           </div>
         </div>
       </a>

@@ -151,6 +151,11 @@ img {
 }
 
 /*=============== BUTTONS ===============*/
+.button2 {
+  display: flex;
+  color: var(--title-color);
+  font-weight: var(--font-medium);
+}
 .button {
   display: flex;
   background-color: var(--title-color);

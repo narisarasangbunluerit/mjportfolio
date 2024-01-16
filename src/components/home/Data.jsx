@@ -6,8 +6,7 @@ const Data = () => {
       <h1 className="home__title"> Narisara Sangbunluerit</h1>
       <h3 className="home__subtitle">UX/UI Designer 🌈</h3>
       <p className="home__description">
-        I'm a computer science student at KMITL. I'm keen to learn new things to
-        upskill myself.
+        I graduated in Science Program major Computer Science from KMITL with GPA 3.55 . I'm keen to learn new things to upskill myself.
       </p>
 
       <a href="#contact" className="button button--flex">

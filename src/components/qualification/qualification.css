@@ -67,6 +67,11 @@
   transform: translate(4px, -7px);
 }
 
+.qulification__button2 {
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-medium);
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For large devices */
 @media screen and (max-width: 992px) {

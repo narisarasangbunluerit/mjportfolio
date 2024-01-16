@@ -10,10 +10,35 @@ import WebImg4 from "../../assets/Web4.png";
 import WebImg5 from "../../assets/Web5.png";
 import WebImg6 from "../../assets/Web6.png";
 import WebImg7 from "../../assets/Web7.png";
+import WebImg8 from "../../assets/Web8.png";
+import WebImg9 from "../../assets/Web9.png";
+import WebImg10 from "../../assets/Web10.png";
 
 const All = () => {
   return (
     <div className="experience_detail__container container grid">
+      <a target="_blank" href="https://jobhire.in.th/">
+        <div className="experience_detail__content">
+          <img src={WebImg8} alt="" className="experience_detail__image" />
+
+          <div>
+            <h3 className="experience_detail__name">
+              Job Hire (Landingpage & Phase 2)
+            </h3>
+          </div>
+        </div>
+      </a>
+
+      <a target="_blank" href="https://jobspace.in.th/">
+        <div className="experience_detail__content">
+          <img src={WebImg9} alt="" className="experience_detail__image" />
+
+          <div>
+            <h3 className="experience_detail__name">Job Space (Job Board) </h3>
+          </div>
+        </div>
+      </a>
+
       <a
         target="_blank"
         href="https://www.figma.com/file/GOAtagoVbRNI6pPkm4CJQL/Builder?node-id=500%3A6419&t=rCYH189xTFx0jR6E-1"
@@ -26,6 +51,7 @@ const All = () => {
           </div>
         </div>
       </a>
+
       <a
         target="_blank"
         href="https://www.figma.com/file/d1M7hTCxQRlqUViWqIkXYC/Medical-Care?t=MokpNPfNT4TflQSx-1"
@@ -152,6 +178,19 @@ const All = () => {
 
           <div>
             <h3 className="experience_detail__name">Cactus Shop</h3>
+          </div>
+        </div>
+      </a>
+
+      <a
+        target="_blank"
+        href="https://www.figma.com/file/oOzAUWnU2ox4Cqyghl5EfY/Internship?type=design&node-id=3%3A3051&mode=design&t=39BoLoYffaGBo461-1"
+      >
+        <div className="experience_detail__content">
+          <img src={WebImg10} alt="" className="experience_detail__image" />
+
+          <div>
+            <h3 className="experience_detail__name">Internship Projects</h3>
           </div>
         </div>
       </a>

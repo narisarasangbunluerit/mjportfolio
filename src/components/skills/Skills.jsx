@@ -69,15 +69,16 @@ const Skills = () => {
                 <li className="skills__modal-skill">
                   <i className="uil uil-check-circle skills__modal-icon"></i>
                   <p className="skills__modal-info">
-                    Information Arcthitecture, Interaction Design, Visual
-                    Interface Design, UX Writing, Pixcel Perfect
+                    Information Architecture, Interaction Design, Visual
+                    Interface Design, UX Writing, Pixel Perfect
                   </p>
                 </li>
 
                 <li className="skills__modal-skill">
                   <i className="uil uil-check-circle skills__modal-icon"></i>
                   <p className="skills__modal-info">
-                    Wireframe(low-fidelity), Mockup(High-fidelity), Prototype
+                    Wireframe(low-fidelity), Mockup(High-fidelity), Prototype,
+                    Design system
                   </p>
                 </li>
 
@@ -149,7 +150,7 @@ const Skills = () => {
                 <li className="skills__modal-skill">
                   <i className="uil uil-check-circle skills__modal-icon"></i>
                   <p className="skills__modal-info">
-                    Canva, Figjam, Lucidchart
+                    Canva, FigJam, Lucidchart
                   </p>
                 </li>
 
